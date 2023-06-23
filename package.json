@@ -1,0 +1,10 @@
+{
+  "name": "reproduce-tracker",
+  "version": "0.0.1",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "packageManager": "yarn@3.6.0"
+}
